@@ -1,6 +1,3 @@
-# Recreating the README.md file after state reset.
-
-readme_content = """
 
 # GoQuant Trading Bot: Efficient Order Management and Execution in C++
 
